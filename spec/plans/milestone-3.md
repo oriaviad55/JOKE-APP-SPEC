@@ -24,4 +24,10 @@
 לפי `spec/MILESTONES.md`, Milestone 3.
 
 ## מה נבנה בפועל
-(יעודכן בסוף)
+- נבנה לפי התוכנית. ב-`index.html` נוסף גם `apple-touch-icon` (‏icon-192), בשביל "הוספה למסך הבית" באייפון.
+- נבדק בכתובת החיה ב-28.10.2026:
+  - ה-service worker במצב activated, ב-scope `/`.
+  - ה-manifest נטען עם name, ‏display: standalone, ‏lang: he, ‏dir: rtl ו-#FFE15A.
+  - שלושת האייקונים חוזרים עם 200, בגדלים שהוגדרו (192, ‏512, ו-512 maskable).
+  - אחרי בקשת בדיחה, ב-Cache Storage אין אף כתובת של `/api`.
+- נשאר למשתמש: התקנה בטלפון (תנאים 2 ו-3).
