@@ -33,7 +33,7 @@
 - המפתח נקרא רק מ-`process.env.OPENAI_API_KEY`, בתוך `api/joke.js`. הדפדפן לא מקבל אף מפתח.
 
 ## אחסון ופריסה
-- ריפו ציבורי ב-GitHub: `oriaviad55/joke-app`, ענף `main` בלבד.
+- ריפו ציבורי ב-GitHub: https://github.com/oriaviad55/JOKE-APP-SPEC, ענף `main` בלבד.
 - הלינק החי ב-Vercel, לא ב-GitHub Pages. ב-Milestone 1 המשתמש מייבא את הריפו ל-Vercel ושומר שם את המפתח. מאז כל push ל-main נפרס לבד.
 
 ## מבנה העבודה במיילסטונים
