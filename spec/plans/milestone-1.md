@@ -44,3 +44,6 @@
 - `api/joke.js`: ‏405 על כל דבר שאינו POST, חיתוך ל-100 תווים, ‏`console.log` עם הנושא ו-found/missing, ובלי הנושא: "בלי נושא".
 - `package.json`: רק `name`, ‏`private` ו-`"type": "module"`.
 - `.gitignore`, ‏`.env.example` ו-`.claude/settings.json` כבר בריפו מההקמה, ולא שונו.
+
+## סטטוס
+הושלם ואושר ב-28.10.2026. הלינק החי: https://joke-app-spec.vercel.app. תנאים 1 עד 6 נבדקו. תנאי 7, הרצה מקומית, דולג כי הוא רשות.
